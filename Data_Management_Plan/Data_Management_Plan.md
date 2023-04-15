@@ -58,4 +58,4 @@ No 10 is in "What are your plans for sharing your research data"
 
 
 
-*WARNING: All right reserved, do NOT copy without editor's(Haosen Yu) permission!*
+***WARNING: All right reserved, do NOT copy without editor's(Haosen Yu) permission!***

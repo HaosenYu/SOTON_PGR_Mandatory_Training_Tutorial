@@ -60,4 +60,4 @@ None
 
 
 
-*WARNING: All right reserved, do NOT copy without editor's(Haosen Yu) permission!*
+***WARNING: All right reserved, do NOT copy without editor's(Haosen Yu) permission!***

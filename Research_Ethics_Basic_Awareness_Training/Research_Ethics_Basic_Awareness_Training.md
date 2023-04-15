@@ -42,4 +42,4 @@ Research Ethics in Practice 04 - end of course quiz
 
 
 
-### *WARNING: All right reserved, do NOT copy without editor's(Haosen Yu) permission!*
+### ***WARNING: All right reserved, do NOT copy without editor's(Haosen Yu) permission!***

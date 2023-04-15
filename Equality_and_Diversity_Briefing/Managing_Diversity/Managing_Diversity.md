@@ -23,3 +23,5 @@ None
 ![Quiz-Q06](./img/Quiz-Q06.jpg)
 
 ![Quiz-Q07](./img/Quiz-Q07.jpg)
+
+***WARNING: All right reserved, do NOT copy without editor's(Haosen Yu) permission!***
