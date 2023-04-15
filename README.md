@@ -72,7 +72,9 @@ Course Address: [Click Here](https://sotonac.sharepoint.com/teams/PGRDevelopment
 
 ## 06. Security Awareness Training with Terranova Security
 
-Tutorial: Waiting to be updated.
+Email Security and Phishing Tutorial: [Link](./Security_Awareness_Training_with_Terranova_Security/Email_Security_and_Phishing/Email_Security_and_Phishing.md)
+
+Working Securely Away from Campus Tutorial: [Link](./Security_Awareness_Training_with_Terranova_Security/Working_Securely_Away_from_Campus/Working_Securely_Away_from_Campus.md)
 
 Course Address: [Click Here](https://sotonac.sharepoint.com/teams/CyberSecurity/SitePages/Information-Security-Training.aspx)
 
