@@ -14,7 +14,7 @@ Tutorial: Waiting to be updated.
 
 ## 02. Data Management Plan
 
-Tutorial: [Data Management Plan](/Data Management Plan/Data Management Plan.md)
+Tutorial: [Data Management Plan](./Data Management Plan/Data Management Plan.md)
 
 
 
@@ -56,7 +56,7 @@ Disability bitesize learning Tutorial: [Disability bitesize learning](./Equality
 
 ## 05. Research Integrity
 
-Tutorial: [Research Integrity](./Research Integrity/Research_Integrity_Tutorial.md)
+Tutorial: [Research Integrity](Research Integrity/Research_Integrity_Tutorial.md)
 
 
 
