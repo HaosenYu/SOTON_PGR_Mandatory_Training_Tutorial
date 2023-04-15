@@ -1,4 +1,4 @@
-# Research Integrity Tutorial
+# Research Integrity
 
 ### Editor: Haosen Yu (April 13. 2023)
 
@@ -83,6 +83,8 @@ None
 ![Quiz-Q09](./img/Quiz-Q09.jpg)
 
 ![Quiz-Q10](./img/Quiz-Q10.jpg)
+
+![Quiz-Result](./img/Quiz-Result.jpg)
 
 
 

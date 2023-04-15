@@ -8,7 +8,7 @@
 
 ## 01. Research Ethics Basic Awareness Training
 
-Tutorial: Waiting to be updated.
+Tutorial: [Link](./Research_Ethics_Basic_Awareness_Training/Research_Ethics_Basic_Awareness_Training.md)
 
 
 
