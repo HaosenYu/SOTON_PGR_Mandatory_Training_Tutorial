@@ -14,7 +14,7 @@ Tutorial: Waiting to be updated.
 
 ## 02. Data Management Plan
 
-Tutorial: [Data Management Plan](./Data Management Plan/Data Management Plan.md)
+Tutorial: [Data Management Plan](Data Management Plan/Data Management Plan.md)
 
 
 
