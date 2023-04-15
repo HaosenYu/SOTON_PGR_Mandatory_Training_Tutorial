@@ -56,7 +56,7 @@ Disability_bitesize_learning_Tutorial: [Disability_bitesize_learning](https://gi
 
 ## 05. Research Integrity
 
-Tutorial: [Research_Integrity](https://github.com/HaosenYu/SOTON_PGR_Mandatory_Training_Tutorial/tree/main/Research_Integrity//Research_Integrity.md)
+Tutorial: [Research_Integrity](./Research_Integrity//Research_Integrity.md)
 
 
 
