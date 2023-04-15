@@ -28,9 +28,9 @@ Tutorial: Health_and_Safety_Induction](https://github.com/HaosenYu/SOTON_PGR_Man
 
 ### A. Mandatory learning for all: 
 
-Equality_and_Diversity_Briefing_Tutorial:_[Equality_and_Diversity_Briefing](https://github.com/HaosenYu/SOTON_PGR_Mandatory_Training_Tutorial/tree/main/Equality_and_Diversity_Briefing/Equality_and_Diversity_Briefing/Equality_and_Diversity_Briefing.md)
+Equality_and_Diversity_Briefing_Tutorial: [Equality_and_Diversity_Briefing](https://github.com/HaosenYu/SOTON_PGR_Mandatory_Training_Tutorial/tree/main/Equality_and_Diversity_Briefing/Equality_and_Diversity_Briefing/Equality_and_Diversity_Briefing.md)
 
-Managing_Diversity_Tutorial:_[Managing_Diversity](https://github.com/HaosenYu/SOTON_PGR_Mandatory_Training_Tutorial/tree/main/Equality_and_Diversity_Briefing/Managing_Diversity/Managing_Diversity.md)
+Managing_Diversity_Tutorial: [Managing_Diversity](https://github.com/HaosenYu/SOTON_PGR_Mandatory_Training_Tutorial/tree/main/Equality_and_Diversity_Briefing/Managing_Diversity/Managing_Diversity.md)
 
 ### B. Bitesize Learning Suite: 
 
@@ -56,7 +56,7 @@ Disability_bitesize_learning_Tutorial: Disability_bitesize_learning](https://git
 
 ## 05. Research Integrity
 
-Tutorial: [Research_Integrity](https://github.com/HaosenYu/SOTON_PGR_Mandatory_Training_Tutorial/tree/main/Research_Integrity//Research_Integrity_Tutorial.md)
+Tutorial: [Research_Integrity](https://github.com/HaosenYu/SOTON_PGR_Mandatory_Training_Tutorial/tree/main/Research_Integrity//Research_Integrity.md)
 
 
 
