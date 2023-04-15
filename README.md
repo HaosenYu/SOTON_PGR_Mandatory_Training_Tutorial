@@ -56,7 +56,7 @@ Disability bitesize learning Tutorial: [Disability bitesize learning](./Equality
 
 ## 05. Research Integrity
 
-Tutorial: [Research_Integrity](Research Integrity)
+Tutorial: [Research_Integrity](Research Integrity/)
 
 
 
