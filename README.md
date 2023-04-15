@@ -56,7 +56,7 @@ Disability bitesize learning Tutorial: [Disability bitesize learning](./Equality
 
 ## 05. Research Integrity
 
-Tutorial: [Research Integrity](Research Integrity/Research_Integrity_Tutorial.md)
+Tutorial: [Research Integrity](../SOTON_PGR_Mandatory_Training_Tutorial/Research Integrity/Research_Integrity_Tutorial.md)
 
 
 
