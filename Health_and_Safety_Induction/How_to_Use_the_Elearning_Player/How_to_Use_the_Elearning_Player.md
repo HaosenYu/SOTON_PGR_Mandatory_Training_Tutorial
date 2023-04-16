@@ -4,7 +4,7 @@
 
 ## Quiz
 
-None
+No questions.
 
 
 
