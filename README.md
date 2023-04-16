@@ -24,9 +24,31 @@ Course Address: [Click Here](https://blackboard.soton.ac.uk/webapps/blackboard/e
 
 ## 03. Health and Safety Induction
 
-Tutorial: [Link](./Health_and_Safety_Induction/Health_and_Safety_Induction.pdf)
-
 Course Address: [Click Here](https://blackboard.soton.ac.uk/webapps/login/?new_loc=/webapps/blackboard/content/listContentEditable.jsp?content_id%3D_4180288_1%26course_id%3D_188839_1)
+
+### Tutorial for all: 
+
+How to Use the Elearning Player Tutorial: [Link](./Health_and_Safety_Induction/How_to_Use_the_Elearning_Player/How_to_Use_the_Elearning_Player.md)
+
+Health and Safety Induction Tutorial: [Link](./Health_and_Safety_Induction/Health_and_Safety_Induction/Health_and_Safety_Induction.md)
+
+Fire Awareness Tutorial: [Link](./Health_and_Safety_Induction/Fire_Awareness/Fire_Awareness.md)
+
+Computer Workstation Setup Tutorial: [Link](./Health_and_Safety_Induction/Computer_Workstation_Setup/Computer_Workstation_Setup.md)
+
+Display Screen Equipment Tutorial: [Link](./Health_and_Safety_Induction/Display_Screen_Equipment/Display_Screen_Equipment.md)
+
+Slips, Trips & Falls Tutorial: [Link](./Health_and_Safety_Induction/Slips_Trips_and_Falls/Slips_Trips_and_Falls.md)
+
+Manual Handling of Loads Tutorial: [Link](./Health_and_Safety_Induction/Manual_Handling_of_Loads/Manual_Handling_of_Loads.md)
+
+Stress Awareness Tutorial: [Link](./Health_and_Safety_Induction/Stress_Awareness/Stress_Awareness.md)
+
+Management of Health and Safety Tutorial: [Link](./Health_and_Safety_Induction/Management_of_Health_and_Safety/Management_of_Health_and_Safety.md)
+
+5 Step Risk Assessment Tutorial: [Link](./Health_and_Safety_Induction/5_Step_Risk_Assessment/5_Step_Risk_Assessment.md)
+
+Hybrid Remote Working Health and Safety Tutorial: [Link](./Health_and_Safety_Induction/Hybrid_Remote_Working_Health_and_Safety/Hybrid_Remote_Working_Health_and_Safety.md)
 
 
 
