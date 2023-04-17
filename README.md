@@ -4,7 +4,7 @@
 
 **Editor: Haosen Yu**
 
-Tutorials Lists for all: [https://yuhaosen.com/archives/879](https://yuhaosen.com/archives/879)
+Tutorials Lists: [https://yuhaosen.com/archives/879](https://yuhaosen.com/archives/879)
 
 
 
