@@ -44,7 +44,7 @@ Course Address: [Click Here](https://sotonac.sharepoint.com/teams/CyberSecurity/
 
 ## < Tutorials Lists >
 
-Please find details at [https://yuhaosen.com/archives/879](https://yuhaosen.com/archives/879)
+For details about the tutorial lists, please visit [https://yuhaosen.com/archives/879](https://yuhaosen.com/archives/879)
 
 
 
