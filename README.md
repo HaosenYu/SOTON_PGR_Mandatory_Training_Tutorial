@@ -4,8 +4,6 @@
 
 **Editor: Haosen Yu**
 
-Tutorials Lists: [https://yuhaosen.com/archives/879](https://yuhaosen.com/archives/879)
-
 
 
 ## 01. Research Ethics Basic Awareness Training
@@ -41,6 +39,12 @@ Course Address: [Click Here](https://sotonac.sharepoint.com/teams/PGRDevelopment
 ## 06. Security Awareness Training with Terranova Security
 
 Course Address: [Click Here](https://sotonac.sharepoint.com/teams/CyberSecurity/SitePages/Information-Security-Training.aspx)
+
+
+
+## < Tutorials Lists >
+
+Please find details at [https://yuhaosen.com/archives/879](https://yuhaosen.com/archives/879)
 
 
 
